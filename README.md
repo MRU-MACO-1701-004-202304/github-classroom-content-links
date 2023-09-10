@@ -10,4 +10,7 @@ These are the links to get the content for labs and (most) assignments.
 
 
 ## Assignment Links
-No assignment links...yet.
+
+| Instructions Link                                                                                                                   | GitHub Classroom Link                                  |
+|-------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------:|
+| [Assignment 1: Algorithms](https://docs.google.com/document/d/1cm5yaTfboJv78_q7K4UKpcwWFtGqilr7Ahcdzxf-JWs/edit?usp=sharing) | [get content](https://classroom.github.com/a/4vhx3S05) |
