@@ -17,4 +17,5 @@ These are the links to get the content for labs and (most) assignments.
 
 | Instructions Link                                                                                                                   | GitHub Classroom Link                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------:|
+| [Assignment 2: Input, Processing, Output](https://docs.google.com/document/d/14orZVM23S8Z7-p6Y_LxE3LAK6Pd8Y6bhGjG7AKmJzYM/edit?usp=sharing) | [get content - coming soon](#) |
 | [Assignment 1: Algorithms](https://docs.google.com/document/d/1cm5yaTfboJv78_q7K4UKpcwWFtGqilr7Ahcdzxf-JWs/edit?usp=sharing) | [get content](https://classroom.github.com/a/4vhx3S05) |
