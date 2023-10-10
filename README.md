@@ -5,6 +5,7 @@ These are the links to get the content for labs and (most) assignments.
 ## Lab Links
 | Instructions Link                                                                                                                   | GitHub Classroom Link                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------:|
+| [Lab-09: Function Creation](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-09-function-creation.md) | [get content](https://classroom.github.com/a/cSUPm3Ni) |
 | [Lab-08: More Functions](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-08-more-functions.md) | [get content](https://classroom.github.com/a/W95t2tM3) |
 | [Lab-07: Functions](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-07-functions.md) | [get content](https://classroom.github.com/a/g1s2TpLV) |
 | [Lab-06: Incan Gold, Revisited](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-06-incan-gold-part-2.md) | [get content](https://classroom.github.com/a/IIQwiRBI) |
