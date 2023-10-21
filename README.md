@@ -5,9 +5,11 @@ These are the links to get the content for labs and (most) assignments.
 ## Lab Links
 | Work On It | Instructions Link                                                                                                                   | GitHub Classroom Link                                  |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------:|
+| NOV-07 (T) |[Lab-15: Loops](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-15-loops.md) | [get content](https://classroom.github.com/a/uPqLHMgc) |
+| NOV-02 (R) |[Lab-14: TBD](#) | Not Available Yet |
 | OCT-31 (T) |[Lab-13: More Decisions](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-13-more-decisions.md) | [get content](https://classroom.github.com/a/iN6H6esB) |
 | OCT-26 (R) |[Lab-12: Decisions](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-12-decisions.md) | [get content](https://classroom.github.com/a/M1OkanRR) |
-| OCT-24 (T) |[Lab-11: TBD](#) | Not Available Yet |
+| OCT-24 (T) |[Lab-11: Debugging](#) | Avail Oct 24, after labs |
 | OCT-19 (R) |[Lab-10: Booleans](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-10-booleans.md) | [get content](https://classroom.github.com/a/VmHKe7I2) |
 | OCT-17 (T) |[Lab-09: Function Creation](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-09-function-creation.md) | [get content](https://classroom.github.com/a/cSUPm3Ni) |
 | OCT-05 (R) |[Lab-08: More Functions](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-08-more-functions.md) | [get content](https://classroom.github.com/a/W95t2tM3) |
