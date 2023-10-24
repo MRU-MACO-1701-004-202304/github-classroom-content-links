@@ -5,6 +5,7 @@ These are the links to get the content for labs and (most) assignments.
 ## Lab Links
 | Work On It | Instructions Link                                                                                                                   | GitHub Classroom Link                                  |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------:|
+| NOV-09 (R) |[Lab-16: More Loops](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-16-more-loops.md) | [get content](https://classroom.github.com/a/pm7tAx8P) |
 | NOV-07 (T) |[Lab-15: Loops](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-15-loops.md) | [get content](https://classroom.github.com/a/uPqLHMgc) |
 | NOV-02 (R) |[Lab-14: TBD](#) | Not Available Yet |
 | OCT-31 (T) |[Lab-13: More Decisions](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-13-more-decisions.md) | [get content](https://classroom.github.com/a/iN6H6esB) |
