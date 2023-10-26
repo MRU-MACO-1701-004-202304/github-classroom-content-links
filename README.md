@@ -7,7 +7,7 @@ These are the links to get the content for labs and (most) assignments.
 |------------|-------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------:|
 | NOV-09 (R) |[Lab-16: More Loops](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-16-more-loops.md) | [get content](https://classroom.github.com/a/pm7tAx8P) |
 | NOV-07 (T) |[Lab-15: Loops](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-15-loops.md) | [get content](https://classroom.github.com/a/uPqLHMgc) |
-| NOV-02 (R) |[Lab-14: TBD](#) | Not Available Yet |
+| NOV-02 (R) |[Lab-14: Decision Functions](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-14-decision-functions.md) | [get content](https://classroom.github.com/a/BQ7dvMJw) |
 | OCT-31 (T) |[Lab-13: More Decisions](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-13-more-decisions.md) | [get content](https://classroom.github.com/a/iN6H6esB) |
 | OCT-26 (R) |[Lab-12: Decisions](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-12-decisions.md) | [get content](https://classroom.github.com/a/M1OkanRR) |
 | OCT-24 (T) |[Lab-11: Debug, Test, Refactor](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-11-debug-test-refactor.md) | [get content](https://classroom.github.com/a/U8auuMkt) |
