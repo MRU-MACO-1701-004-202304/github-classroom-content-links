@@ -5,6 +5,7 @@ These are the links to get the content for labs and (most) assignments.
 ## Lab Links
 | Work On It | Instructions Link                                                                                                                   | GitHub Classroom Link                                  |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------:|
+| NOV-16 (R) |[Lab-18: More Loopy Functions](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-18-more-loopy-functions.md) | [get content](https://classroom.github.com/a/gmw8HJeW) |
 | NOV-14 (T) |[Lab-17: Loopy Functions](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-17-loopy-functions.md) | [get content](https://classroom.github.com/a/mcbWnLkx) |
 | NOV-09 (R) |[Lab-16: More Loops](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-16-more-loops.md) | [get content](https://classroom.github.com/a/pm7tAx8P) |
 | NOV-07 (T) |[Lab-15: Loops](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-15-loops.md) | [get content](https://classroom.github.com/a/uPqLHMgc) |
