@@ -5,6 +5,8 @@ These are the links to get the content for labs and (most) assignments.
 ## Lab Links
 | Work On It | Instructions Link                                                                                                                   | GitHub Classroom Link                                  |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------:|
+| NOV-23 (R) |[Lab-20: More Lists and Indexing](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-20-more-lists-and-indexing.md) | [get content](https://classroom.github.com/a/_uzC0q-X) |
+| NOV-21 (T) |[Lab-19: Lists and Indexing](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-19-lists-and-indexing.md) | [get content](https://classroom.github.com/a/Ix8d5vMH) |
 | NOV-16 (R) |[Lab-18: More Loopy Functions](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-18-more-loopy-functions.md) | [get content](https://classroom.github.com/a/gmw8HJeW) |
 | NOV-14 (T) |[Lab-17: Loopy Functions](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-17-loopy-functions.md) | [get content](https://classroom.github.com/a/mcbWnLkx) |
 | NOV-09 (R) |[Lab-16: More Loops](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-16-more-loops.md) | [get content](https://classroom.github.com/a/pm7tAx8P) |
