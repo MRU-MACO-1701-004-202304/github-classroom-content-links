@@ -5,6 +5,7 @@ These are the links to get the content for labs and (most) assignments.
 ## Lab Links
 | Work On It | Instructions Link                                                                                                                   | GitHub Classroom Link                                  |
 |------------|-------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------:|
+| NOV-30 (R) |[Lab-22: More File IO](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-22-more-file-io.md) | [get content](https://classroom.github.com/a/VMKtXMLI) |
 | NOV-28 (T) |[Lab-21: File IO](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-21-file-io.md) | [get content](https://classroom.github.com/a/bLv6iRxT) |
 | NOV-23 (R) |[Lab-20: More Lists and Indexing](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-20-more-lists-and-indexing.md) | [get content](https://classroom.github.com/a/_uzC0q-X) |
 | NOV-21 (T) |[Lab-19: Lists and Indexing](https://github.com/MRU-MACO-1701-004-202304/lab-instructions/blob/main/lab-19-lists-and-indexing.md) | [get content](https://classroom.github.com/a/Ix8d5vMH) |
