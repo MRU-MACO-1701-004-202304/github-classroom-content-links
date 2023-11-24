@@ -33,6 +33,7 @@ These are the links to get the content for labs and (most) assignments.
 
 | Instructions Link                                                                                                                   | GitHub Classroom Link                                  |
 |-------------------------------------------------------------------------------------------------------------------------------------|:------------------------------------------------------:|
+| [Assignment 4: Lists, Functions, and File I/O](https://docs.google.com/document/d/1Q1IXhs5Qo0rzug0HG_BzNh00V7W-KNxxWDUrfuNERuI/edit?usp=sharing) | [get content](https://classroom.github.com/a/ohwetuLN) |
 | [Assignment 3: Functions & Decisions](https://docs.google.com/document/d/1d8amVtExfxC2lmdYgDu6l67OzJzye1phLbrNKcdCriQ/edit?usp=sharing) | [get content](https://classroom.github.com/a/Pznn9lxK) |
 | [Assignment 2: Input, Processing, Output](https://docs.google.com/document/d/14orZVM23S8Z7-p6Y_LxE3LAK6Pd8Y6bhGjG7AKmJzYM/edit?usp=sharing) | [get content](https://classroom.github.com/a/DzImAtOC) |
 | [Assignment 1: Algorithms](https://docs.google.com/document/d/1cm5yaTfboJv78_q7K4UKpcwWFtGqilr7Ahcdzxf-JWs/edit?usp=sharing) | [get content](https://classroom.github.com/a/4vhx3S05) |
